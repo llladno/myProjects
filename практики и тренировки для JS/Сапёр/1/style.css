@@ -1,0 +1,14 @@
+#game {
+  display: grid;
+  grid-template-columns: repeat(10,30px);
+  gap: 2px;
+}
+
+.cell {
+  background-color: #bbb;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+}

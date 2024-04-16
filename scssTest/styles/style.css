@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div .hi {
+  background: #9c22d9;
+  width: 100px;
+  height: 100px;
+}
+div .hi a {
+  color: chartreuse;
+}
+div .hi p {
+  color: red;
+}
+
+.ho p {
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

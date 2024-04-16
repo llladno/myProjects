@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+    max-width: 100%;
+}
+.head{
+    position: fixed;
+    min-width: 100%;
+    width: auto;
+    background: #007765;
+    background-size: cover;
+    height: 84px;
+    z-index: 3;
+}
+    
+.img1{
+    padding-left: 300px;
+    padding-top: 25px;
+    width: 150px;
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.dtext1{
+    background: #EEEEEE;
+}
+.the_problem{
+    float: right;
+    padding-top: 28px;
+    padding-right: 300px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.sec{
+    height: 403px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imgrab3/image\ 111.png);
+    background-size: cover;
+    background-position: center center;
+}
+.PiperNet_Is_Here{
+    height: 83px;
+    left: 396px;
+    top: 20%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    color: #FFFFFF;
+}
+h1{
+    padding-top: 55px;
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+
+    /* identical to box height */
+    text-align: center;
+    color: #007765;
+}
+h3{
+    padding-top: 5px;
+    margin: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    text-align: center;
+    color: #007765;
+}
+figcaption{
+    font-family: 'Roboto';
+    font-style: normal;
+    text-align: center;
+    font-style: italic;
+}
+.text1, .text2, .texttt{
+    padding: 55px;
+    width: 1219px;
+}
+.text1{
+    margin: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+.containter{
+
+}
+.texttt{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 48px;
+    color: #FFFFFF;
+    font-style: italic;
+    position: relative;
+    z-index: 2;
+}
+.forf{
+    padding: 10px; /* Поля */
+    height: 483px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imgrab3/image\ \(2\).png);
+    background-size: cover;
+    background-position: center center;
+    z-index: 2;
+}
+.over{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    position: absolute;
+    height: 483px;
+    background-color:rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}
+.d222{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.img2{
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+.text2{
+    margin: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+}
+.d3{
+    background: #EEEEEE;
+    padding-bottom: 112px;
+}
+.obox{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1500px;
+}
+.line{
+    margin: auto;
+    padding-top: 82px;
+    float: left;
+}
+.d4{
+    background: #333333;
+    width: 100%;
+    height: 176px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dtexttt{
+    margin: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 540px;
+}

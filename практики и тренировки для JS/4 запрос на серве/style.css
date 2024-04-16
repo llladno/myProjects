@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+body{
+    font-family: 'Mukta', sans-serif;
+}
+table, th,td{
+    background: rgb(196, 229, 248);
+    border: 2px solid rgb(13, 139, 148);
+    border-collapse: collapse;
+}
+th,td:hover{
+    background: rgb(226, 241, 250);
+}
+th{
+    padding: 10px 0px 10px 0px;
+}
+table{
+    width: 85%;
+    height: 500px
+}
+.td1{
+    text-align: center;
+}
+.td2{
+    padding: 5px 20px 5px 15px;
+}

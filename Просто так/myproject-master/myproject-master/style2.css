@@ -1,0 +1,24 @@
+.ele{
+    color:red;
+    text-decoration: underline;
+    background-color: rgb(64, 15, 241);
+}
+.elo{
+    color:rgb(49, 221, 198);
+    text-decoration:dotted;
+    background-color: rgb(201, 41, 89);
+}
+p{
+    color:#999;
+}
+p.exam{
+    color:rgb(255, 2, 2);
+    }
+
+img{
+    width: 200px;
+}
+.page > p{
+     text-decoration: underline;
+    background-color: bisque;
+    }

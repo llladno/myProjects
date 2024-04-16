@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="./styles/main.css">
+    <title>Главная</title>
+  </head>
+  <body>
+    <div class="navigationBar">
+      <div><img src="./styles/img/Logo.png"></div>
+      <div class="centerBar">
+        <button class="selected">ГЛАВНАЯ</button>
+        <button class="unselected">АНАЛИТИКА</button>
+      </div>
+      <div>
+        <img src="./styles/img/Profile.png">
+      </div>
+    </div>
+    <div style="background: #F5F5F5;">
+    <div class="conteiner">
+        <div class="styleinput">
+            <input
+            placeholder="Поиск прибора в Botanique по номеру, названию, подразделению и др.">
+        <img src="./styles/img/Vector.png">
+        </div>
+        <div style="display: flex;margin-bottom:16px;margin-left: 9px;">
+            <img src="./styles/img/Like.png" width="17px" height="17px" style="padding-top: 3px;">
+            <h2>Любимые приборы</h2>
+        </div>
+        <div class="conteinerInsrt">
+            <table>
+                <thead>
+                    <td>
+                    </td>
+                    <td>
+                        Название
+                    </td>
+                    <td>
+                        Статус
+                    </td>
+                    <td>
+                    </td>
+                </thead>
+                <tbody class="bodytable">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+    <script src="main.js"></script>
+  </body>
+</html>

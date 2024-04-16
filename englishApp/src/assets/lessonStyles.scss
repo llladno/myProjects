@@ -1,0 +1,16 @@
+.lessonMenu {
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  gap: 10px;
+  width: 400px;
+  transition: ease 0.5s;
+}
+
+.hiden{
+  transition: ease 0.5s;
+  position: relative;
+  left: 120px;
+  z-index: 1;
+  opacity: 0;
+}

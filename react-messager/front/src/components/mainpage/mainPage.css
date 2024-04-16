@@ -1,0 +1,7 @@
+.chatMenu {
+    display: flex;
+}
+
+.listUsers{
+    display: grid;
+}

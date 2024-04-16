@@ -1,0 +1,34 @@
+.chatPlace{
+    height: 800px;
+    width: 80%;
+    display: block;
+}
+
+.messagePlace{
+    width: 100%;
+    overflow-y: scroll;
+    background: #83a2dc;
+    display: grid;
+justify-content: center;
+    grid-template-columns: 100%;
+    height: 100%;
+}
+
+.otherMessages{
+    background: #83a2dc;
+    float: left;
+}
+
+.placeMessage{
+    width: 100%;
+}
+
+
+.myselfMessage{
+    background: #83a2dc;
+    /*position: relative;*/
+    /*right: 0;*/
+    /*max-width: 350px;*/
+    /*width: 100%;*/
+    float: right;
+}

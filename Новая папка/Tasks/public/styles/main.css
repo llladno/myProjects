@@ -1,0 +1,202 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+body{
+    margin: 0px;
+    background: #F5F5F5;
+}
+.navigationBar {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+  height: 46px;
+  margin-bottom: 2px;
+  padding: 2px 24px 0px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.status{
+    width: 122px;
+}
+.styleinput{
+    display: flex;
+    padding-top: 50px;
+    width: 102%;
+    padding-bottom: 50px;
+}
+
+.centerBar button{
+  letter-spacing: 1.25px;
+      font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+    }
+
+.styleinput img{
+    position: relative;
+    top: 18px;
+    left: -33px;
+    width: 20px;
+    height: 20px;
+}
+
+.styleinput input{
+    border-radius: 3px;
+    padding-left: 16px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: left;
+    
+    border: 1px solid #0000001F;
+    background: #f5f5f5;
+    height: 50px;
+    width: 100%;
+}
+
+.styleinput input::placeholder{
+  color: #00000061;
+}
+
+.selected {
+  border: none;
+  color: #23b04a;
+  border-bottom: 2px #23b04a solid;
+}
+
+h2 {
+  text-decoration: none;
+  color: #00000099;
+  font-size: 20px;
+  margin: 0px;
+  font-weight: 500;
+  padding: 0px;
+  padding-left: 14px;
+}
+
+.centerBar {
+  height: 100%;
+}
+.centerBar button {
+  font-size: 14px;
+  cursor: pointer;
+  background: #fff;
+  width: 164px;
+  height: 100%;
+}
+
+.unselected {
+  color: #00000099;
+
+  border: none;
+}
+
+.conteiner {
+  width: 73%;
+  padding-left: 13.5%;
+}
+
+.conteinerInsrt {
+  height: 100%;
+  border: 1px solid #0000001f;
+  border-radius: 5px;
+  padding: 10px 12px 0px 12px;
+  background: #fff;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  height: 44px;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.tableimg {
+
+    padding-left: 17px;
+  width: 48px;
+}
+
+.conteinerInsrt img { 
+  width: 40px;
+}
+
+select {
+    appearance:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	-ms-appearance:none;
+    background-position: calc(100% - 12px) center !important;
+    background: url("data:image/svg+xml,<svg height='10px' width='10px' viewBox='0 0 16 16' fill='%2300000099' xmlns='http://www.w3.org/2000/svg'><path d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/></svg>") no-repeat;
+    padding: 8px 32px 8px 16px;
+    font-size: 14px;
+    color: #00000099;
+  border: 1px solid #00000061;
+  padding: 0px 8px 0px 8px;
+  border-radius: 3px;
+  width: 100px;
+  height: 25px;
+
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+
+}
+
+thead td {
+  padding-bottom: 8px;
+    height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #00000099;
+}
+
+.title{
+    width: 74.5%;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+
+}
+
+tbody td{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+
+    padding: 0px;
+    height: 53px;
+}
+.notifications{
+    float: right;
+    
+    padding-right: 22px;
+}
+.notifications img{
+    cursor: pointer;
+    padding-top: 15px;
+    width: 20px;
+}
+
+
+thead tr:first-child td, tbody tr:last-child td{
+  border-bottom: none;
+}

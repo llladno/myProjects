@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="428f46b7-3d28-49c6-89d1-72126eb64c57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TypeScriptTestReact/typescript-app/src/components/Product.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpackTest/webpack.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Coursework" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ele/project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEMICAT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SEMICAT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEMICAT/semicat" beforeDir="false" afterPath="$PROJECT_DIR$/../SEMICAT/semicat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/files/george-pagan-iii-W3hlvVs297g-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/files/ivan-kazlouskij-AWYePc-i7mo-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/files/math-lfRlv3nuf78-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/files/olena-sergienko-yZgR892POcY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/files/stefan-lehner-DS2JrhXpEVY-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/back/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/back/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/back/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/back/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/back/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginHome.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginHome.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginShowData.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/LoginShowData.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/styleOrderLogin.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Home/styleOrderLogin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Register/AddUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Register/AddUser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Register/LoginRegister.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/login/Register/LoginRegister.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Bar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Bar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/elliss.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/components/mainPage/elliss.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Yнивер/Studio/front/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/components/Todo.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/components/TodoInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/components/TodoItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app1-todo/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/ClassCouner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/Counter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/PostForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/PostItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/PostList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/UI/buttom/MyButton.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/UI/buttom/MyButton.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/UI/input/MyInput.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/UI/input/MyInput.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/ele.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/select/MySelect.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/componnents/styles/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/site2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/site2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject-master/myproject-master/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/img/91e8466140e1a62dca289386e2bd3c69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/img/pattern-bubbles-up-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/PPC Logo1111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image 111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image333.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image555.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image666.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/image777.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/imgrab3/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/rab3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site2/stylerab3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site3/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Company_logologo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Dotdot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Happy_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Image (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Image (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Image-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Party_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/img/Smile_emoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/JS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/95b745f6ce6a45903c3ed254afd72e46-w550-27-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/Shape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/Shape0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/en_badge_web_generic-cf6dad406f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/social/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/social/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/social/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/white-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/img/cart/Ня.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ubereats/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../практики и тренировки для JS/5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../практики и тренировки для JS/5/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../практики и тренировки для JS/5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../практики и тренировки для JS/5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../практики и тренировки для JS/5/style2.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dGdfTXMt0zbcKZfTiddAysCHah" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;F:\\projects\\testVue\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;F:\\projects\\testVue\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="428f46b7-3d28-49c6-89d1-72126eb64c57" name="Changes" comment="" />
+      <created>1709638451880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709638451880</updated>
+      <workItem from="1709638453317" duration="2431000" />
+      <workItem from="1709641381637" duration="11023000" />
+      <workItem from="1709706476237" duration="3531000" />
+      <workItem from="1709752483327" duration="2388000" />
+      <workItem from="1709788229808" duration="373000" />
+      <workItem from="1709788750806" duration="23000" />
+      <workItem from="1709985545547" duration="2810000" />
+      <workItem from="1710097620146" duration="603000" />
+      <workItem from="1710249417984" duration="6490000" />
+      <workItem from="1710309982589" duration="612000" />
+      <workItem from="1710333533040" duration="5878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<div style="margin-left: 50px">
+  <div *ngIf="loggedIn; else loggedOut">
+    Logg in
+    <button (click)="snus($event)">Register</button>
+  </div>
+  <ng-template #loggedOut>
+    <p>LoggedOut</p>
+  </ng-template>
+
+  <button *ngIf="isCollapsed" (click)="toggleCollapse()">Отобразить</button>
+  <button *ngIf="!isCollapsed" (click)="toggleCollapse()">Спрятать</button>
+  <div *ngIf="!isCollapsed">
+    <p>dsadsakl;dsak;d as;lkdas; kdsa;lk das;ldksa ;ldask ;daskd';askasdsahkd lashdksaj</p>
+  </div>
+  <input [(ngModel)]="text">
+  <p>{{text}}</p>
+</div>

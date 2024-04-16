@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="./styles/analytics.css" />
+    <title>Аналитика</title>
+  </head>
+  <body>
+    <div class="navigationBar">
+      <div><img src="./styles/img/Logo.png" /></div>
+      <div class="centerBar">
+        <button class="unselected">ГЛАВНАЯ</button>
+        <button class="selected">АНАЛИТИКА</button>
+      </div>
+      <div>
+        <img src="./styles/img/Profile.png" />
+      </div>
+    </div>
+    <div class="container">
+      <div>
+        <div class="headconteiner">
+          <img
+            width="40px" height="40px" style="padding: 0px 16px 0px 4px"
+            src="./styles/img/analytics/unknown device.png"/>
+          <div style="width: 77.5%">
+            <h3 class="placeTitle"></h3>
+            <p
+              style="padding: 4px 0px 0px 0px;
+                font-size: 12px; font-weight: 400;
+                line-height: 16px; letter-spacing: 0.4px;
+                text-align: left; color: #00000099;">
+              S1.4.I14-9.001 <sapn style="padding: 0px 2px 0px 2px;"> •</sapn>00-024004
+            </p>
+          </div>
+          <select>
+            <option>В работе</option>
+            <option>Свободен</option>
+          </select>
+          <div style="padding: 3px 0px 0px 16px">
+            <img src="./styles/img/analytics/Like.png" />
+            <img style="padding-left: 16px"
+              src="./styles/img/analytics/settings.png"/>
+          </div>
+        </div>
+        <div style="padding: 10px 16px 5px 16px">
+          <div style="width: 100%">
+            <div class="choose">
+              <div style="display: flex; width: 55%">
+                <div>
+                  <div style="padding: 10px 0px 24px 19px; display: flex">
+                    <span>Работа прибора</span>
+                    <button onclick="show()" class="show">
+                      <img class="workprib"
+                        src="./styles/img/analytics/arrow_drop_down_24px.png"/>
+                    </button>
+                  </div>
+                  <div class="workhide">
+                    <div style="display: flex; align-items: center">
+                      <div class="datestyle">
+                        <p id="datestart"></p>
+                        <img height="16px"src="./styles/img/analytics/date.png"/>
+                      </div>
+                      <img height="16px"width="16px"
+                        style="padding: 0px 12px 0px 12px"
+                        src="./styles/img/analytics/arrow.png"/>
+                      <div class="datestyle">
+                        <p id="dateend"></p>
+                        <img height="16px"src="./styles/img/analytics/date.png"/>
+                      </div>
+                    </div>
+                    <div style="padding: 16px 0px 20px 0px">
+                      <button class="date firstday" 
+                      onclick="clickdate(event)">День</button>
+                      <button class="date" 
+                      onclick="clickdate(event)">Неделя</button>
+                      <button class="date" 
+                      onclick="clickdate(event)">2 недели</button>
+                      <button class="date" 
+                      onclick="clickdate(event)">Месяц</button>
+                      <button class="date" 
+                      onclick="clickdate(event)">3 месяца</button>
+                      <button class="date" 
+                      onclick="clickdate(event)">Полгода</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="btnsPDF">
+                <button><img src="./styles/img/analytics/clock.png" /></button>
+                <button class="save">
+                  СОХРАНИТЬ PDF
+                  <img height="24"style="padding-left: 13px"
+                    src="./styles/img/analytics/line.png"/>
+                  <img height="24px" src="./styles/img/analytics/dots.png" />
+                </button>
+              </div>
+            </div>
+          </div>
+          <div>
+            <table>
+              <thead>
+                <td class="tdStart">Начало</td>
+                <td class="tdtype">Тип работ</td>
+                <td class="tdwork">Работы</td>
+                <td class="tdresult">Результат</td>
+                <td class="tdstatus"></td>
+                <td class="tduser">Пользователь</td>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="tablfirst">09.10.2021, 15:46</td>
+                  <td>
+                    <p style="
+                        color: #23b04a;
+                        font-size: 14px;
+                        font-weight: 400;
+                        line-height: 20px;
+                        letter-spacing: 0.25px;
+                        text-align: left;
+                      ">В работе
+                    </p>
+                    <p
+                      style="
+                        font-size: 14px;
+                        color: #00000099;
+                        font-weight: 500;
+                        line-height: 20px;
+                        letter-spacing: 0.25px;
+                        text-align: left;
+                      "
+                    >
+                      Измерение
+                    </p>
+                  </td>
+                  <td class="tablestyle">
+                    <b>Образец/серия:</b> 000100057935_170000010325_0000251849
+                  </td>
+                  <td></td>
+                  <td class="check">
+                    <img src="./styles/img/analytics/check.png" />
+                  </td>
+                  <td class="user">morozovava</td>
+                </tr>
+                <tr>
+                  <td class="tablfirst">12.10.2021, 12:17</td>
+                  <td>
+                    <p
+                      style="
+                        color: #23b04a;
+                        font-size: 14px;
+                        font-weight: 400;
+                        line-height: 20px;
+                        letter-spacing: 0.25px;
+                        text-align: left;
+                      "
+                    >
+                      В работе
+                    </p>
+                    <p
+                      style="
+                        font-size: 14px;
+                        color: #00000099;
+                        font-weight: 500;
+                        line-height: 20px;
+                        letter-spacing: 0.25px;
+                        text-align: left;
+                      "
+                    >
+                      Калибровка
+                    </p>
+                  </td>
+                  <td class="tablestyle">
+                    <p><b>Номер колонки: </b> Колонка 2</p>
+                    <p><b>Образец:</b>Образец 2</p>
+                    <p><b>Образец: </b> образец 1</p>
+                    <p><b>Метод:</b> метов тестовый</p>
+                    <p><b>Номер колонки: </b> Колонка 1</p>
+                  </td>
+                  <td class="tablestyle2">
+                    <div>
+                      Промывка с указанием вещества: Вещество Комментарий: тест
+                      успешности
+                    </div>
+                  </td>
+                  <td class="check">
+                    <img src="./styles/img/analytics/check.png" />
+                  </td>
+                  <td class="user">morozovava</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="analytics.js"></script>
+  </body>
+</html>

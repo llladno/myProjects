@@ -1,0 +1,23 @@
+@import "reset";
+
+$bgcolor-div: #9c22d9;
+
+div{
+  .hi {
+    background: $bgcolor-div;
+    width: 100px;
+    height: 100px;
+    a{
+      color: chartreuse;
+    }
+    p {
+      color: red;
+    }
+  }
+}
+
+.ho{
+  p{
+    color: yellow;
+  }
+}

@@ -1,0 +1,8 @@
+bg-blue-300
+bg-pink-300
+bg-yellow-100
+
+
+bg-blue-950
+bg-violet-500
+bg-violet-200

@@ -1,0 +1,41 @@
+[
+  {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Aminals",
+        "level": "Easy",
+        "theme": "Basic English",
+        "words": [
+          "cat",
+          "dog",
+          "puppy",
+          "pig",
+          "cow",
+          "chicken",
+          "kitten",
+          "sheep",
+          "rabbit",
+          "crocodile"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Food",
+        "level": "Easy",
+        "theme": "Basic English",
+        "words": [
+          "Water",
+          "Tea",
+          "Bread",
+          "Meat",
+          "Cookies",
+          "Chocolate",
+          "Cheese",
+          "Rice",
+          "Cake",
+          "Pizza"
+        ]
+      }
+    ]}
+  ]

@@ -1,0 +1,146 @@
+[
+  { "users":[ {
+    "login": "sdsa",
+    "email": "sdsadsa",
+    "password": "111",
+    "money": 50,
+    "heath": {
+      "lastGame": {
+        "time": 0,
+        "health": 2
+      },
+      "status": true
+    },
+    "chest": {
+      "easy": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "medium": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "hard": {
+        "lastOpen": 0,
+        "ready": false
+      }
+    },
+    "words": [
+      "cool",
+      "tool"
+    ],
+    "wordsRus": [
+      "круто",
+      "инструмент"
+    ],
+    "id": 1
+  },
+  {
+    "login": "ladno",
+    "email": "email",
+    "password": "123",
+    "money": 50,
+    "heath": {
+      "lastGame": {
+        "time": 0,
+        "health": 2
+      },
+      "status": true
+    },
+    "chest": {
+      "easy": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "medium": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "hard": {
+        "lastOpen": 0,
+        "ready": false
+      }
+    },
+    "words": [
+      "cool",
+      "tool"
+    ],
+    "wordsRus": [
+      "круто",
+      "инструмент"
+    ],
+    "id": 2
+  },
+  {
+    "login": "sus",
+    "email": "123",
+    "password": "123",
+    "money": 50,
+    "heath": {
+      "lastGame": {
+        "time": 0,
+        "health": 2
+      },
+      "status": true
+    },
+    "words": [
+      "cool",
+      "tool"
+    ],
+    "chest": {
+      "easy": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "medium": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "hard": {
+        "lastOpen": 0,
+        "ready": false
+      }
+    },
+    "wordsRus": [
+      "круто",
+      "инструмент"
+    ],
+    "id": 3
+  },
+  {
+    "login": "123",
+    "email": "123",
+    "password": "123",
+    "money": 50,
+    "heath": {
+      "lastGame": {
+        "time": 0,
+        "health": 2
+      },
+      "status": true
+    },
+    "chest": {
+      "easy": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "medium": {
+        "lastOpen": 0,
+        "ready": false
+      },
+      "hard": {
+        "lastOpen": 0,
+        "ready": false
+      }
+    },
+    "words": [
+      "cool",
+      "tool"
+    ],
+    "wordsRus": [
+      "круто",
+      "инструмент"
+    ],
+    "id": 4
+  }]}
+]
